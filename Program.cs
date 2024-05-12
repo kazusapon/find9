@@ -6,10 +6,14 @@ if (args.Length < 2)
 }
 
 var path = args[0];
-var name = args[1];
+var keywords = args.Skip(1).ToList();
 
-var dirs = Directory.EnumerateFiles(path, $"*{name}*", SearchOption.AllDirectories);
-foreach(var d in dirs)
+var files = Directory.EnumerateFiles(path, "*", SearchOption.AllDirectories)
+            .Where(f => File.Exists(f))
+            .Where(f => keywords.TrueForAll(x => f.ToLower().Contains(x.ToLower())))
+            .ToArray();
+
+foreach (var file in files)
 {
-    Console.WriteLine(d);
+    Console.WriteLine(file);
 }
