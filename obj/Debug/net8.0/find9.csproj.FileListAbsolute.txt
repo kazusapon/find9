@@ -1,0 +1,14 @@
+C:\Users\ueda\Documents\repos\find9\bin\Debug\net8.0\find9.exe
+C:\Users\ueda\Documents\repos\find9\bin\Debug\net8.0\find9.deps.json
+C:\Users\ueda\Documents\repos\find9\bin\Debug\net8.0\find9.runtimeconfig.json
+C:\Users\ueda\Documents\repos\find9\bin\Debug\net8.0\find9.dll
+C:\Users\ueda\Documents\repos\find9\bin\Debug\net8.0\find9.pdb
+C:\Users\ueda\Documents\repos\find9\obj\Debug\net8.0\find9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ueda\Documents\repos\find9\obj\Debug\net8.0\find9.AssemblyInfoInputs.cache
+C:\Users\ueda\Documents\repos\find9\obj\Debug\net8.0\find9.AssemblyInfo.cs
+C:\Users\ueda\Documents\repos\find9\obj\Debug\net8.0\find9.csproj.CoreCompileInputs.cache
+C:\Users\ueda\Documents\repos\find9\obj\Debug\net8.0\find9.dll
+C:\Users\ueda\Documents\repos\find9\obj\Debug\net8.0\refint\find9.dll
+C:\Users\ueda\Documents\repos\find9\obj\Debug\net8.0\find9.pdb
+C:\Users\ueda\Documents\repos\find9\obj\Debug\net8.0\find9.genruntimeconfig.cache
+C:\Users\ueda\Documents\repos\find9\obj\Debug\net8.0\ref\find9.dll
